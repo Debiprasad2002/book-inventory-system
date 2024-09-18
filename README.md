@@ -1,9 +1,13 @@
+![Screenshot 2024-09-18 131901](https://github.com/user-attachments/assets/0a251e89-5eeb-40dc-8439-f19cbac11f3a)
+
+
+
 ```markdown
 # Book Inventory Management System
 
 This is a simple, responsive book inventory management system that allows users to add, filter, and export book data. The system features an intuitive and stylish UI with gradient effects, animations, and responsive design.
 
-![Screenshot 2024-09-18 131901](https://github.com/user-attachments/assets/a86ef845-9c08-4faf-bc94-19b1585da7fd)
+
 
 
 ## Features
