@@ -170,6 +170,10 @@ The UI is designed to be responsive and works well on mobile, tablet, and deskto
 2. **Backend**: Node.js and Express.js are used to handle API requests, and PostgreSQL is used as the database for storing book data.
 3. **Database**: A simple relational schema is used to store book details efficiently, ensuring scalability.
 
+
+![Screenshot 2024-09-18 131901](https://github.com/user-attachments/assets/96d27441-abab-4b90-8f95-af208de202a4)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -181,4 +185,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Adjust the `API Endpoints` and `Technologies Used` sections to match your actual implementation.
 
 
-![Screenshot 2024-09-18 131901](https://github.com/user-attachments/assets/47c10a22-21b0-4834-bfaa-79fa3f809ba1)
