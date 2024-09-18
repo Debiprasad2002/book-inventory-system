@@ -3,6 +3,9 @@
 
 This is a simple, responsive book inventory management system that allows users to add, filter, and export book data. The system features an intuitive and stylish UI with gradient effects, animations, and responsive design.
 
+![Screenshot 2024-09-18 131901](https://github.com/user-attachments/assets/a86ef845-9c08-4faf-bc94-19b1585da7fd)
+
+
 ## Features
 
 - **Add New Books**: A form to input new book details (title, author, genre, publication date, ISBN) into the inventory.
@@ -169,9 +172,6 @@ The UI is designed to be responsive and works well on mobile, tablet, and deskto
 1. **UI/UX**: The UI is designed with a focus on simplicity and user-friendliness, using a gradient background and animations to make the experience interactive.
 2. **Backend**: Node.js and Express.js are used to handle API requests, and PostgreSQL is used as the database for storing book data.
 3. **Database**: A simple relational schema is used to store book details efficiently, ensuring scalability.
-
-
-![Screenshot 2024-09-18 131901](https://github.com/user-attachments/assets/96d27441-abab-4b90-8f95-af208de202a4)
 
 
 ## License
